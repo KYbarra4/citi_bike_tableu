@@ -15,7 +15,7 @@ Data was gathered for the year of 2022 but due to restrictions of 15 million row
 
 ### Citi Bike Rider Start Locations
 
-The map and charts show that there is a regular use of classic bikes from members across the cityto start their journey with concentration aiming toward the city.
+The map and charts show that there is a regular use of classic bikes from members across the city to start their journey with concentration aiming toward the city.
 
 ![citi_bike1](https://user-images.githubusercontent.com/113717031/218377574-46e06150-95b7-4970-b0b7-852cb1ca7f1f.png)
 
