@@ -15,13 +15,13 @@ Data was gathered for the year of 2022 but due to restrictions of 15 million row
 
 ### Citi Bike Rider Start Locations
 
-The map and charts show that there is a regular use of classic bikes from members across the city to start their journey with concentration aiming toward the city.
+The map and charts show that there is a regular use of classic bikes from members across the city to  start their journey with concentration aiming toward the city. Charts show the top and bottom 10 start stations on the map with the toggle of rider count range. Total stations is also calculated.
 
 ![citi_bike1](https://user-images.githubusercontent.com/113717031/218377574-46e06150-95b7-4970-b0b7-852cb1ca7f1f.png)
 
 ### Citi Bike Rider End Locations
 
-The map and charts show that there is a regular use of classic bikes from members across the city to end their journey while also showing more branched out end points possibly to get home after work or school.
+The map and charts show that there is a regular use of classic bikes from members across the city to end their journey while also showing more branched out end points possibly to get home after work or school. Shown in the charts are the top and bottom 10 end stations  with the toggle of rider count. Total rides is also calculated.
 
 ![citi_bike2](https://user-images.githubusercontent.com/113717031/218377737-0c09a9c6-156a-4b76-91b8-0b666730398b.png)
 
