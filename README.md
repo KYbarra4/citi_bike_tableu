@@ -24,7 +24,7 @@ The map and charts show that there is a regular use of classic bikes from member
 
 ### Citi Bike Rider End Locations
 
-The map and charts show that there is a regular use of classic bikes from members across the city to end their journey while also showing more branched out end points possibly to get home after work or school. Shown in the charts are the top and bottom 10 end stations  with the toggle of member/casual. Toggle also dictates the amount of riders used by member/casual.
+The map and charts show that there is a regular use of classic bikes from members across the city to end their journey while also showing more branched out end points possibly to get home after work or school. Shown in the charts are the top and bottom 10 end stations  with the toggle of member/casual. Toggle also dictates the amount of riders by member/casual.
 
 ![citi_bike2](https://user-images.githubusercontent.com/113717031/218634974-e4bf5b53-9637-4f83-9ee6-f32efcc9863c.png)
 
