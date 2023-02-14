@@ -49,4 +49,4 @@ From the pie charts we can see that there is an overwheling amount of total ride
 
 ### Final Analysis
 
-With all the data gathered we can see that the regular rider is a member who uses a classic bike and is often traveling around 8 AM and 5 PM possibly going to and from work or school. October is also shown as the highest usage month in Q4 with december tapering off troughout the month possibly due to the weather or the holiday season.
+With all the data gathered we can see that the regular rider is a member who uses a classic bike and is often traveling around 8 AM and 5 PM possibly going to and from work or school. October is also shown as the highest usage month in Q4 with December tapering off troughout the month possibly due to the weather or the holiday season.
